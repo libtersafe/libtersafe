@@ -1,16 +1,67 @@
-## Hi there 👋
+# libtersafe
 
-<!--
-**libtersafe/libtersafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Android Reverse Engineering](https://img.shields.io/badge/Android-Reverse--Engineering-blue)
+![Kernel Hacker](https://img.shields.io/badge/Kernel-Hacker-critical)
+![LLVM](https://img.shields.io/badge/LLVM-IR--Expert-purple)
+![Frida](https://img.shields.io/badge/Frida-Dynamic--Instrumentation-green)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-Static%20Analysis-orange)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ 项目简介
+
+**libtersafe** 是面向高级逆向工程师和安全研究者打造的，专注于 Android 平台的逆向分析与安全工具集。项目融合了静态与动态分析、编译器技术、内核安全与自动化调试能力，旨在提升移动安全研究的深度和效率。
+
+---
+
+## 👨‍💻 作者介绍
+
+我是 libtersafe，一名 Android 逆向开发工程师，专注于：
+
+- **IDA Pro 静态分析**：深度逆向，自动化脚本编写与符号恢复
+- **Trace 技术**：运行时行为追踪，精准定位关键逻辑
+- **Frida 动态注入**：API Hook、参数监控与数据修改
+- **LLVM 开发**：编译器定制、IR 插桩、代码保护与优化
+- **Kernel 黑客**：Linux 内核模块开发，底层安全防护与漏洞挖掘
+
+---
+
+## 🚀 项目特色
+
+- **多维度分析能力**：结合静态（IDA Pro）与动态（Frida/Trace）技术，覆盖 Android 应用全生命周期安全分析
+- **自动化脚本体系**：高度可定制的自动化调试与分析脚本，提升逆向效率
+- **编译器级安全方案**：基于 LLVM 的插桩与定制，适配特殊安全需求
+- **内核安全扩展**：支持 Kernel 模块开发，面向驱动和系统层安全研究
+
+---
+
+## 🛠️ 技术栈
+
+- `IDA Pro` / `Hex-Rays`
+- `Frida`
+- `LLVM IR`
+- `Linux Kernel`
+- `Python / C / C++ / Assembly`
+- `Trace / Hook / Patch / Symbol Recovery`
+
+---
+
+## 📦 典型应用场景
+
+- Android 应用协议逆向与加固
+- APP 动态行为监控与防护
+- 编译器自动插桩与安全加固
+- Kernel 模块漏洞挖掘与驱动开发
+- 逆向工具链自动化扩展
+
+---
+
+## 🤝 联系与合作
+
+- GitHub: [libtersafe](https://github.com/libtersafe)
+- Telegram: [t.me/Kernel_Hack](https://t.me/Kernel_Hack)
+- 欢迎交流逆向、内核安全、编译器开发等技术话题，或提出合作意向！
+
+---
+
+> **专注高维安全，赋能逆向极限。libtersafe，专为专业而生。**
